@@ -1,1 +1,1 @@
-package JavaPrograms;
+package basicprograms;
